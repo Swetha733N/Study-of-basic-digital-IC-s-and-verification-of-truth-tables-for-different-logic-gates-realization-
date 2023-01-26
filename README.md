@@ -83,8 +83,9 @@ endmodule
 RTL realization
 
 Output:https://github.com/Swetha733N/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-.git
+![gatesRTL](https://user-images.githubusercontent.com/122199934/214781717-972ebb69-3131-4b60-8cbb-9c559fb52625.png)
 
 RTL
 Result:
-
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
+
