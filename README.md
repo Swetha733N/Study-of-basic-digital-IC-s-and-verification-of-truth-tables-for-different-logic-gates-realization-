@@ -61,7 +61,7 @@ Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by:N.Swetha
-RegisterNumber:22008828  
+RegisterNumber:22008828
 */
 Logic symbol & Truthtable
 module gates(a,b,p,q,r,w,x,y,z);
